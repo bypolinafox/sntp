@@ -1,6 +1,6 @@
 # sntp
 ## liar sntp server & simple sntp client
-Liar-server: you give seconds to lie.
+Liar-server: you give seconds to lie. Based on localhost (127.0.0.1).
 
 ### Usage:
 - Start server from project folder and mark delay in seconds: sudo python sntp-server.py 10
